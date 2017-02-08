@@ -1,0 +1,27 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR yellow]PJ MASKS[/COLOR]
+
+#EXTINF:-1, [COLOR blue]LISTA DO JOK[/COLOR]
+
+#EXTINF:-1, [COLOR red]ATUALIZADA EM 24/01/2017[/COLOR]
+
+#EXTINF:-1, [COLOR yellow]1ª TEMPORADA[/COLOR]
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IF0w_MZ_B_M/maxresdefault.jpg" group-title="DESENHO",PJ Masks 1ª Temporada Ep 1 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=52TlsbL58XM&t=96s
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IF0w_MZ_B_M/maxresdefault.jpg" group-title="DESENHO",PJ Masks 1ª Temporada Ep 2 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5vvIURssIjA&t=13s
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IF0w_MZ_B_M/maxresdefault.jpg" group-title="DESENHO",PJ Masks 1ª Temporada Ep 3
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6VZ_4yRC_Ts
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IF0w_MZ_B_M/maxresdefault.jpg" group-title="DESENHO",PJ Masks 1ª Temporada Ep 4 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PLKzifNlVd3tdPPs7Jf3cwv2QUWV6cV4Ct
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IF0w_MZ_B_M/maxresdefault.jpg" group-title="DESENHO",PJ Masks 1ª Temporada Ep 5 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7-ZPY4VTngw&list=PLKzifNlVd3tdPPs7Jf3cwv2QUWV6cV4Ct&index=2
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IF0w_MZ_B_M/maxresdefault.jpg" group-title="DESENHO",PJ Masks 1ª Temporada Ep 6 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LlWC2Swa9-8
